@@ -6,7 +6,7 @@ I'm a software engineer,  my expertise is in building scalable backend services 
 
 I love building things. While hard engineering problems are often intrinsically fun to tackle, I'm most attracted to solving real customer problems with a business justification.....
  -----------------------.
-Job Responsibilities:
+## Job Responsibilities:
 
 => Develops software solutions by studying information needs, 
    conferring with users, studying systems flow, data usage, and work processes; investigating problem areas; and following the software development lifecycle.
@@ -16,7 +16,8 @@ Job Responsibilities:
 => Provides information by collecting, analyzing, and summarizing development and service issues.
 =>Supports and develops software engineers by providing advice, coaching, and educational opportunities.
 
-Skills: VUE JS / REACT / JS / HTML / CSS/ ANGULAR/ SPRING/ NODEJS/ LARAVEL/ SYMFONY/ FLUTTER/ REACT-NATIVE
+## Skills: 
+* VUE JS / REACT / JS / HTML / CSS/ ANGULAR/ SPRING/ NODEJS/ LARAVEL/ SYMFONY/ FLUTTER/ REACT-NATIVE
 
 - 🔭 I’m currently working on this page. 
 

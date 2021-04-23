@@ -7,12 +7,12 @@ I love building things. While hard engineering problems are often intrinsically 
 
 ## Experience :
 
-:heavy_check_mark: Develops software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes; investigating problem areas; and following the software development lifecycle.
-:heavy_check_mark: Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.
-:heavy_check_mark: Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code.
-:heavy_check_mark: Protects operations by keeping information confidential.
-:heavy_check_mark: Provides information by collecting, analyzing, and summarizing development and service issues.
-:heavy_check_mark: Supports and develops software engineers by providing advice, coaching, and educational opportunities.
+* :heavy_check_mark: Develops software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes; investigating problem areas; and following the software development lifecycle.
+* :heavy_check_mark: Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.
+* :heavy_check_mark: Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code.
+* :heavy_check_mark: Protects operations by keeping information confidential.
+* :heavy_check_mark: Provides information by collecting, analyzing, and summarizing development and service issues.
+* :heavy_check_mark: Supports and develops software engineers by providing advice, coaching, and educational opportunities.
 
 ## 🔭 Skills :
 * VUE JS 

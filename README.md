@@ -1,8 +1,6 @@
-
+![Development](https://github.com/Sriky-Yassine/Sriky-Yassine/blob/main/IT%20Dev.jpg)
 #SRIKY Yassine 
 ##More Details  :point_down:
-![Development](https://github.com/Sriky-Yassine/Sriky-Yassine/blob/main/IT%20Dev.jpg)
-
 I'm Yassine from morocco, I'm a software engineer,  my expertise is in building scalable backend services (API services, stream processing, and asynchronous mechanisms).
 I love building things. While hard engineering problems are often intrinsically fun to tackle, I'm most attracted to solving real customer problems with a business justification.....
 

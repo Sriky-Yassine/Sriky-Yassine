@@ -8,18 +8,26 @@ I love building things. While hard engineering problems are often intrinsically 
  -----------------------.
 ## Job Responsibilities:
 
-=> Develops software solutions by studying information needs, 
-   conferring with users, studying systems flow, data usage, and work processes; investigating problem areas; and following the software development lifecycle.
-=> Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.
-=> Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code.
-=> Protects operations by keeping information confidential.
-=> Provides information by collecting, analyzing, and summarizing development and service issues.
-=>Supports and develops software engineers by providing advice, coaching, and educational opportunities.
+* Develops software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes; investigating problem areas; and following the software development lifecycle.
+* Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.
+* Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code.
+* Protects operations by keeping information confidential.
+* Provides information by collecting, analyzing, and summarizing development and service issues.
+* Supports and develops software engineers by providing advice, coaching, and educational opportunities.
 
-## Skills: 
-* VUE JS / REACT / JS / HTML / CSS/ ANGULAR/ SPRING/ NODEJS/ LARAVEL/ SYMFONY/ FLUTTER/ REACT-NATIVE
+## 🔭 Skills:
+* VUE JS 
+* REACT 
+* JS HTML CSS
+* ANGULAR
+* SPRING
+* NODEJS
+* LARAVEL
+* SYMFONY
+* FLUTTER
+* REACT-NATIVE
 
-- 🔭 I’m currently working on this page. 
+-  I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sriky-Yassine)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yassine-sriky-672274163/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sriky_yassine)  

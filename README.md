@@ -7,7 +7,7 @@ I love building things. While hard engineering problems are often intrinsically 
 
 ## Experience :
 
-* Develops software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes; investigating problem areas; and following the software development lifecycle.
+:heavy_check_mark: Develops software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes; investigating problem areas; and following the software development lifecycle.
 * Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.
 * Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code.
 * Protects operations by keeping information confidential.

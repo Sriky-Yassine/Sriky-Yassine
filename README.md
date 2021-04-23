@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is SRIKY Yassine
-#### Development
+
 ![Development](https://github.com/Sriky-Yassine/Sriky-Yassine/blob/main/IT%20Dev.jpg)
 
 I'm a software engineer,  my expertise is in building scalable backend services (API services, stream processing, and asynchronous mechanisms).

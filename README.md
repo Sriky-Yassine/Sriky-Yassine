@@ -1,7 +1,7 @@
 <p align="center"> 
     <img src="https://github.com/Sriky-Yassine/Sriky-Yassine/blob/main/IT%20Dev.gif" align="center" height="300"></img>
 </p>
-<h1 align="center"> Senior Software Enginner 🔥 </h1> 
+<h1 align="center"> Senior Software Engineer 🔥 </h1> 
 
 ## SRIKY Yassine  :point_down:
 I'm Yassine from morocco, I'm a software engineer,  my expertise is in building scalable backend services (API services, stream processing, and asynchronous mechanisms).

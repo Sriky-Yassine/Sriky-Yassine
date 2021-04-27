@@ -16,7 +16,7 @@ I love building things. While hard engineering problems are often intrinsically 
 * :heavy_check_mark: Provides information by collecting, analyzing, and summarizing development and service issues.
 * :heavy_check_mark: Supports and develops software engineers by providing advice, coaching, and educational opportunities.
 
-## 🔭 Skills :
+## 🔭 Skills 📚 :
 * VUE JS 
 * REACT 
 * JS HTML CSS

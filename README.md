@@ -7,7 +7,7 @@
 I'm Yassine from morocco, I'm a software engineer,  my expertise is in building scalable backend services (API services, stream processing, and asynchronous mechanisms).
 I love building things. While hard engineering problems are often intrinsically fun to tackle, I'm most attracted to solving real customer problems with a business justification.....
 
-## Experience :
+## Experience 📄 :
 
 * :heavy_check_mark: Develops software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes; investigating problem areas; and following the software development lifecycle.
 * :heavy_check_mark: Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.
